@@ -2,10 +2,18 @@
   "title": "Acme Corp",
   "logo": {
     "light": {
-      "image": "/logo-light.svg"
+      "image": "/logo-light.svg",
+      "padding": {
+        "top": 12,
+        "bottom": 12
+      }
     },
     "dark": {
-      "image": "/logo-dark.svg"
+      "image": "/logo-dark.svg",
+      "padding": {
+        "top": 12,
+        "bottom": 12
+      }
     },
     "pill": false
   },
